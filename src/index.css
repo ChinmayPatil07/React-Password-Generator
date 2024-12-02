@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+*{
+    user-select: none;
+}
